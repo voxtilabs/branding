@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<defs>
+		<image  width="500" height="500" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQMAAADxGE3JAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAHhJREFUeJztyzENAAAMA6DVv+mJ6NfAT64T3/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/d93/dn/gPUpgH1slVP1AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #3d5afe } 
+		.s1 { fill: #000000 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path class="s0" d="m284.83 155.08c24.84-0.25 69.99-6.66 69.6 32.33-0.15 15.89 2.05 49.01-8.01 60.26-22.87 21.9-65.99-2.65-88.95 19.05-27.15 25.66 9.72 73.18-44.03 76.66-15.04 0.75-46.98 2.07-57.98-7.82-6.17-5.55-9.94-14.03-9.87-22.1 0.14-16.62-3.19-50.61 8.31-63.66 13.96-15.81 47.89-7.18 66.59-9 50.3-4.92 18.55-52.05 38.27-76.5 6.28-7.8 16.93-8.81 26.07-9.22z"/>
+	<path id="Forma 2" class="s1" d=""/>
+</svg>
